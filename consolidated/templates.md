@@ -2267,3 +2267,368 @@ Scene 2: [Nederlandse Kling AI prompt met Nederlandse emotionele nuances]
 **Nederlandse Aanvullende Workflow Opmerkingen:** [Nederlandse extra feedback en suggesties]
 
 ---
+
+## Project Management & Workflow Orchestration Templates
+
+### Nederlandse Project Analyse Sjabloon
+
+## Project Analyse Header
+
+**NEDERLANDSE PROJECT ANALYSE SPECIFICATIE**
+**Project Manager:** Quinn - Nederlandse Project Manager & Workflow Orchestrator
+**Analyse Datum:** [Nederlandse datum]
+**User Request:** "[Nederlandse originele user request]"
+**Project ID:** [Nederlandse unieke project identificatie]
+**Urgentie Niveau:** [Nederlandse Laag/Gemiddeld/Hoog/Kritiek]
+
+---
+
+## Nederlandse Project Intake & Classification
+
+### Nederlandse Request Analysis
+**Nederlandse Project Type Identificatie:**
+- [ ] **Nederlandse Video Productie** - Nederlandse video content creation en Nederlandse post-productie
+- [ ] **Nederlandse Audio Productie** - Nederlandse podcast, Nederlandse voice-over, Nederlandse audio content
+- [ ] **Nederlandse Text Enhancement** - Nederlandse content writing, Nederlandse editing, Nederlandse TTS optimization
+- [ ] **Nederlandse Marketing Campaign** - Nederlandse multi-modal Nederlandse marketing content
+- [ ] **Nederlandse Brand Development** - Nederlandse merk strategie en Nederlandse identity development
+- [ ] **Nederlandse Multi-Modal Content** - Nederlandse cross-platform Nederlandse content creation
+- [ ] **Nederlandse Custom Project** - [Nederlandse specifieke project type beschrijving]
+
+**Nederlandse Project Complexity Assessment:**
+- **Nederlandse Complexity Score:** ___/10
+- **Nederlandse Single-Agent Task:** ☐ JA ☐ NEE
+- **Nederlandse Multi-Agent Workflow:** ☐ JA ☐ NEE
+- **Nederlandse Cross-Modal Integration:** ☐ JA ☐ NEE
+- **Nederlandse Custom Workflow Required:** ☐ JA ☐ NEE
+
+### Nederlandse Deliverable Extraction
+**Nederlandse Primaire Deliverables:**
+1. [Nederlandse hoofddeliverable 1 met Nederlandse specificaties]
+2. [Nederlandse hoofddeliverable 2 met Nederlandse specificaties]
+3. [Nederlandse hoofddeliverable 3 met Nederlandse specificaties]
+
+**Nederlandse Secundaire Outputs:**
+- [Nederlandse ondersteunende Nederlandse deliverable 1]
+- [Nederlandse ondersteunende Nederlandse deliverable 2]
+- [Nederlandse ondersteunende Nederlandse deliverable 3]
+
+**Nederlandse Quality Requirements:**
+- **Nederlandse Kwaliteit Niveau:** [Nederlandse Basis/Professioneel/Premium/Broadcast]
+- **Nederlandse Cultural Authenticity:** [Nederlandse Essentieel/Belangrijk/Gewenst]
+- **Nederlandse Platform Optimization:** [Nederlandse Specifieke Nederlandse platforms]
+- **Nederlandse Compliance Standards:** [Nederlandse vereiste Nederlandse standaarden]
+
+---
+
+## Nederlandse Agent Selection & Workflow Design
+
+### Nederlandse Recommended Agent Combination
+**Nederlandse Primary Agents (Must-Have):**
+1. **[Nederlandse Agent Naam]** - [Nederlandse rol en Nederlandse verantwoordelijkheden]
+2. **[Nederlandse Agent Naam]** - [Nederlandse rol en Nederlandse verantwoordelijkheden]
+3. **[Nederlandse Agent Naam]** - [Nederlandse rol en Nederlandse verantwoordelijkheden]
+
+**Nederlandse Supporting Agents (Optional):**
+- **[Nederlandse Agent Naam]** - [Nederlandse ondersteunende Nederlandse rol]
+- **[Nederlandse Agent Naam]** - [Nederlandse ondersteunende Nederlandse rol]
+
+**Nederlandse Fallback Agents:**
+- **[Nederlandse Agent Naam]** - [Nederlandse backup voor Nederlandse primary agent]
+- **[Nederlandse Agent Naam]** - [Nederlandse backup voor Nederlandse primary agent]
+
+### Nederlandse Workflow Sequence Design
+**Nederlandse Phase 1: [Nederlandse fase naam] (Nederlandse geschatte duur)**
+- **Nederlandse Agent:** [Nederlandse verantwoordelijke Nederlandse agent]
+- **Nederlandse Input:** [Nederlandse vereiste Nederlandse input]
+- **Nederlandse Output:** [Nederlandse verwachte Nederlandse output]
+- **Nederlandse Quality Gate:** [Nederlandse relevante Nederlandse quality checks]
+
+**Nederlandse Phase 2: [Nederlandse fase naam] (Nederlandse geschatte duur)**
+- **Nederlandse Agent:** [Nederlandse verantwoordelijke Nederlandse agent]
+- **Nederlandse Input:** [Nederlandse vereiste Nederlandse input van Nederlandse vorige Nederlandse fase]
+- **Nederlandse Output:** [Nederlandse verwachte Nederlandse output]
+- **Nederlandse Quality Gate:** [Nederlandse relevante Nederlandse quality checks]
+
+**Nederlandse Phase 3: [Nederlandse fase naam] (Nederlandse geschatte duur)**
+- **Nederlandse Agent:** [Nederlandse verantwoordelijke Nederlandse agent]
+- **Nederlandse Input:** [Nederlandse vereiste Nederlandse input van Nederlandse vorige Nederlandse fase]
+- **Nederlandse Output:** [Nederlandse finale Nederlandse deliverable]
+- **Nederlandse Quality Gate:** [Nederlandse finale Nederlandse quality validation]
+
+---
+
+## Nederlandse Resource Planning & Timeline
+
+### Nederlandse Project Timeline
+**Nederlandse Geschatte Totale Duur:** [Nederlandse dagen/weken]
+**Nederlandse Critical Path:** [Nederlandse langste Nederlandse dependency chain]
+**Nederlandse Parallel Processing Opportunities:** [Nederlandse gelijktijdige Nederlandse taken]
+
+**Nederlandse Milestone Planning:**
+- **Nederlandse Milestone 1:** [Nederlandse beschrijving] - [Nederlandse datum]
+- **Nederlandse Milestone 2:** [Nederlandse beschrijving] - [Nederlandse datum]
+- **Nederlandse Milestone 3:** [Nederlandse beschrijving] - [Nederlandse datum]
+- **Nederlandse Final Delivery:** [Nederlandse beschrijving] - [Nederlandse datum]
+
+### Nederlandse Resource Allocation
+**Nederlandse Agent Workload Distribution:**
+- **[Nederlandse Agent Naam]:** [Nederlandse percentage Nederlandse tijd] - [Nederlandse specifieke Nederlandse taken]
+- **[Nederlandse Agent Naam]:** [Nederlandse percentage Nederlandse tijd] - [Nederlandse specifieke Nederlandse taken]
+- **[Nederlandse Agent Naam]:** [Nederlandse percentage Nederlandse tijd] - [Nederlandse specifieke Nederlandse taken]
+
+**Nederlandse Resource Conflicts:**
+- [Nederlandse potentiële Nederlandse resource conflict 1 en Nederlandse resolution]
+- [Nederlandse potentiële Nederlandse resource conflict 2 en Nederlandse resolution]
+
+---
+
+## Nederlandse Quality Management Strategy
+
+### Nederlandse Filtered Quality Checklist
+**Nederlandse Project-Relevante Quality Checks (van Nederlandse 200+ beschikbare):**
+- [ ] [Nederlandse critical Nederlandse quality check 1]
+- [ ] [Nederlandse critical Nederlandse quality check 2]
+- [ ] [Nederlandse critical Nederlandse quality check 3]
+- [ ] [Nederlandse important Nederlandse quality check 4]
+- [ ] [Nederlandse important Nederlandse quality check 5]
+- [ ] [Nederlandse nice-to-have Nederlandse quality check 6]
+
+**Nederlandse Quality Gate Schedule:**
+- **Nederlandse Gate 1 (Nederlandse Phase 1 Completion):** [Nederlandse quality checks 1-3]
+- **Nederlandse Gate 2 (Nederlandse Phase 2 Completion):** [Nederlandse quality checks 4-6]
+- **Nederlandse Gate 3 (Nederlandse Final Delivery):** [Nederlandse comprehensive Nederlandse quality validation]
+
+### Nederlandse Risk Assessment
+**Nederlandse Identified Risks:**
+- **Nederlandse Risk 1:** [Nederlandse beschrijving] - Nederlandse Probability: ___/10, Nederlandse Impact: ___/10
+- **Nederlandse Risk 2:** [Nederlandse beschrijving] - Nederlandse Probability: ___/10, Nederlandse Impact: ___/10
+- **Nederlandse Risk 3:** [Nederlandse beschrijving] - Nederlandse Probability: ___/10, Nederlandse Impact: ___/10
+
+**Nederlandse Mitigation Strategies:**
+- [Nederlandse risk mitigation strategy 1]
+- [Nederlandse risk mitigation strategy 2]
+- [Nederlandse risk mitigation strategy 3]
+
+---
+
+## Nederlandse Project Success Metrics
+
+### Nederlandse Success Criteria
+**Nederlandse Primary Success Metrics:**
+- [Nederlandse meetbare Nederlandse success criterion 1]
+- [Nederlandse meetbare Nederlandse success criterion 2]
+- [Nederlandse meetbare Nederlandse success criterion 3]
+
+**Nederlandse Quality Targets:**
+- **Nederlandse Overall Quality Score:** ___/10 (Nederlandse target)
+- **Nederlandse Cultural Authenticity:** ___/10 (Nederlandse target)
+- **Nederlandse Platform Optimization:** ___/10 (Nederlandse target)
+- **Nederlandse Stakeholder Satisfaction:** ___/10 (Nederlandse target)
+
+### Nederlandse Project Approval
+**Nederlandse Project Analysis Validation:**
+- [ ] **Nederlandse Project Scope Clearly Defined**
+- [ ] **Nederlandse Agent Selection Optimized**
+- [ ] **Nederlandse Workflow Sequence Logical**
+- [ ] **Nederlandse Quality Strategy Appropriate**
+- [ ] **Nederlandse Timeline Realistic**
+- [ ] **Nederlandse Resource Allocation Feasible**
+
+---
+
+**Nederlandse Project Analyse Goedkeuring:**
+- [ ] **Nederlandse Project Manager Approval**
+- [ ] **Nederlandse Workflow Analyst Verification**
+- [ ] **Nederlandse Quality Coordinator Approval**
+- [ ] **Nederlandse Resource Scheduler Confirmation**
+
+**Nederlandse Project Analyse Compleet:** ☐ JA ☐ NEE
+
+**Nederlandse Project Ready for Execution:** ☐ JA ☐ NEE
+
+**Nederlandse Aanvullende Project Analyse Opmerkingen:** [Nederlandse extra feedback en suggesties]
+
+---
+
+### Nederlandse Multi-Agent Workflow Sjabloon
+
+## Multi-Agent Workflow Header
+
+**NEDERLANDSE MULTI-AGENT WORKFLOW SPECIFICATIE**
+**Project Manager:** Quinn - Nederlandse Project Manager & Workflow Orchestrator
+**Workflow Datum:** [Nederlandse datum]
+**Project ID:** [Nederlandse project identificatie]
+**Workflow Type:** [Nederlandse workflow categorie]
+**Geschatte Duur:** [Nederlandse totale Nederlandse workflow tijd]
+**Betrokken Agents:** [Nederlandse aantal Nederlandse agents in Nederlandse workflow]
+
+---
+
+## Nederlandse Workflow Overview
+
+### Nederlandse Project Context
+**Nederlandse Project Titel:** [Nederlandse project naam]
+**Nederlandse Project Doel:** [Nederlandse hoofddoelstelling]
+**Nederlandse Target Audience:** [Nederlandse doelgroep specificatie]
+**Nederlandse Deliverable Type:** [Nederlandse finale Nederlandse output type]
+**Nederlandse Quality Level:** [Nederlandse vereiste Nederlandse kwaliteit niveau]
+
+### Nederlandse Agent Ecosystem Deployment
+**Nederlandse Primary Workflow Agents:**
+1. **[Nederlandse Agent 1 Naam]** - [Nederlandse rol] - [Nederlandse geschatte Nederlandse tijd]
+2. **[Nederlandse Agent 2 Naam]** - [Nederlandse rol] - [Nederlandse geschatte Nederlandse tijd]
+3. **[Nederlandse Agent 3 Naam]** - [Nederlandse rol] - [Nederlandse geschatte Nederlandse tijd]
+
+**Nederlandse Supporting Agents:**
+- **[Nederlandse Agent Naam]** - [Nederlandse ondersteunende Nederlandse functie]
+- **[Nederlandse Agent Naam]** - [Nederlandse ondersteunende Nederlandse functie]
+
+---
+
+## Nederlandse Workflow Execution Plan
+
+### Nederlandse Phase 1: [Nederlandse fase titel]
+**Nederlandse Verantwoordelijke Agent:** [Nederlandse primary Nederlandse agent]
+**Nederlandse Fase Duur:** [Nederlandse geschatte Nederlandse tijd]
+**Nederlandse Fase Doelstelling:** [Nederlandse specifieke Nederlandse fase doel]
+
+**Nederlandse Input Requirements:**
+- [Nederlandse vereiste Nederlandse input 1]
+- [Nederlandse vereiste Nederlandse input 2]
+- [Nederlandse vereiste Nederlandse input 3]
+
+**Nederlandse Execution Steps:**
+1. [Nederlandse gedetailleerde Nederlandse stap 1]
+2. [Nederlandse gedetailleerde Nederlandse stap 2]
+3. [Nederlandse gedetailleerde Nederlandse stap 3]
+
+**Nederlandse Expected Output:**
+- [Nederlandse verwachte Nederlandse deliverable 1]
+- [Nederlandse verwachte Nederlandse deliverable 2]
+
+**Nederlandse Quality Gate Criteria:**
+- [ ] [Nederlandse quality check 1]
+- [ ] [Nederlandse quality check 2]
+- [ ] [Nederlandse quality check 3]
+
+**Nederlandse Handoff to Next Phase:**
+- **Nederlandse Context Transfer:** [Nederlandse informatie Nederlandse overdracht]
+- **Nederlandse Deliverable Validation:** [Nederlandse output Nederlandse verificatie]
+- **Nederlandse Next Agent Briefing:** [Nederlandse volgende Nederlandse agent Nederlandse instructies]
+
+### Nederlandse Phase 2: [Nederlandse fase titel]
+**Nederlandse Verantwoordelijke Agent:** [Nederlandse primary Nederlandse agent]
+**Nederlandse Fase Duur:** [Nederlandse geschatte Nederlandse tijd]
+**Nederlandse Fase Doelstelling:** [Nederlandse specifieke Nederlandse fase doel]
+
+**Nederlandse Input from Previous Phase:**
+- [Nederlandse ontvangen Nederlandse deliverable 1 van Nederlandse fase 1]
+- [Nederlandse ontvangen Nederlandse deliverable 2 van Nederlandse fase 1]
+- [Nederlandse context Nederlandse informatie van Nederlandse vorige Nederlandse agent]
+
+**Nederlandse Execution Steps:**
+1. [Nederlandse gedetailleerde Nederlandse stap 1]
+2. [Nederlandse gedetailleerde Nederlandse stap 2]
+3. [Nederlandse gedetailleerde Nederlandse stap 3]
+
+**Nederlandse Expected Output:**
+- [Nederlandse verwachte Nederlandse deliverable 1]
+- [Nederlandse verwachte Nederlandse deliverable 2]
+
+**Nederlandse Quality Gate Criteria:**
+- [ ] [Nederlandse quality check 1]
+- [ ] [Nederlandse quality check 2]
+- [ ] [Nederlandse quality check 3]
+
+### Nederlandse Phase 3: [Nederlandse finale fase titel]
+**Nederlandse Verantwoordelijke Agent:** [Nederlandse primary Nederlandse agent]
+**Nederlandse Fase Duur:** [Nederlandse geschatte Nederlandse tijd]
+**Nederlandse Fase Doelstelling:** [Nederlandse finale Nederlandse deliverable Nederlandse completion]
+
+**Nederlandse Input from Previous Phases:**
+- [Nederlandse alle Nederlandse vorige Nederlandse fase Nederlandse outputs]
+- [Nederlandse geaccumuleerde Nederlandse context en Nederlandse feedback]
+
+**Nederlandse Final Execution Steps:**
+1. [Nederlandse finale Nederlandse integration Nederlandse stap]
+2. [Nederlandse quality Nederlandse assurance Nederlandse stap]
+3. [Nederlandse deliverable Nederlandse finalization Nederlandse stap]
+
+**Nederlandse Final Deliverable:**
+- [Nederlandse complete Nederlandse project Nederlandse output]
+- [Nederlandse alle Nederlandse supporting Nederlandse materials]
+
+**Nederlandse Final Quality Validation:**
+- [ ] [Nederlandse comprehensive Nederlandse quality check 1]
+- [ ] [Nederlandse comprehensive Nederlandse quality check 2]
+- [ ] [Nederlandse comprehensive Nederlandse quality check 3]
+
+---
+
+## Nederlandse Workflow Coordination & Monitoring
+
+### Nederlandse Real-Time Coordination Protocol
+**Nederlandse Agent Communication Schedule:**
+- **Nederlandse Daily Check-ins:** [Nederlandse tijd en Nederlandse format]
+- **Nederlandse Phase Transition Meetings:** [Nederlandse handoff Nederlandse procedures]
+- **Nederlandse Issue Escalation Process:** [Nederlandse problem Nederlandse resolution Nederlandse steps]
+
+**Nederlandse Progress Tracking:**
+- **Nederlandse Milestone Monitoring:** [Nederlandse progress Nederlandse measurement Nederlandse methods]
+- **Nederlandse Quality Gate Validation:** [Nederlandse quality Nederlandse check Nederlandse procedures]
+- **Nederlandse Timeline Adjustment:** [Nederlandse schedule Nederlandse modification Nederlandse protocols]
+
+### Nederlandse Workflow Optimization
+**Nederlandse Parallel Processing Opportunities:**
+- [Nederlandse gelijktijdige Nederlandse taak 1] - [Nederlandse agents Nederlandse involved]
+- [Nederlandse gelijktijdige Nederlandse taak 2] - [Nederlandse agents Nederlandse involved]
+
+**Nederlandse Efficiency Enhancements:**
+- [Nederlandse workflow Nederlandse optimization 1]
+- [Nederlandse workflow Nederlandse optimization 2]
+- [Nederlandse workflow Nederlandse optimization 3]
+
+**Nederlandse Bottleneck Prevention:**
+- [Nederlandse potential Nederlandse bottleneck 1] - [Nederlandse prevention Nederlandse strategy]
+- [Nederlandse potential Nederlandse bottleneck 2] - [Nederlandse prevention Nederlandse strategy]
+
+---
+
+## Nederlandse Workflow Success Metrics
+
+### Nederlandse Performance Indicators
+**Nederlandse Workflow Efficiency:**
+- **Nederlandse Timeline Adherence:** ___% (Nederlandse target: 95%+)
+- **Nederlandse Quality Gate Pass Rate:** ___% (Nederlandse target: 100%)
+- **Nederlandse Agent Coordination Score:** ___/10 (Nederlandse target: 8.5+)
+- **Nederlandse Resource Utilization:** ___% (Nederlandse target: 85%+)
+
+**Nederlandse Quality Metrics:**
+- **Nederlandse Overall Output Quality:** ___/10 (Nederlandse target: 9+)
+- **Nederlandse Cultural Authenticity:** ___/10 (Nederlandse target: 9.5+)
+- **Nederlandse Stakeholder Satisfaction:** ___/10 (Nederlandse target: 8.5+)
+- **Nederlandse Deliverable Completeness:** ___% (Nederlandse target: 100%)
+
+### Nederlandse Workflow Completion Validation
+**Nederlandse Final Workflow Checklist:**
+- [ ] **Nederlandse All Phases Completed Successfully**
+- [ ] **Nederlandse All Quality Gates Passed**
+- [ ] **Nederlandse Final Deliverable Meets Specifications**
+- [ ] **Nederlandse Stakeholder Approval Received**
+- [ ] **Nederlandse Documentation Complete**
+- [ ] **Nederlandse Lessons Learned Captured**
+
+---
+
+**Nederlandse Multi-Agent Workflow Goedkeuring:**
+- [ ] **Nederlandse Project Manager Approval**
+- [ ] **Nederlandse All Participating Agents Approval**
+- [ ] **Nederlandse Quality Coordinator Verification**
+- [ ] **Nederlandse Stakeholder Final Approval**
+
+**Nederlandse Multi-Agent Workflow Compleet:** ☐ JA ☐ NEE
+
+**Nederlandse Aanvullende Workflow Opmerkingen:** [Nederlandse extra feedback en suggesties]
+
+---

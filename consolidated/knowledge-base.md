@@ -1050,3 +1050,200 @@ Deze Nederlandse visuele cultuur gids wordt regelmatig geüpdatet om Nederlandse
 - **Nederlandse Engagement Potential:** Nederlandse luisteraar betrokkenheid potentie (target: 8/10)
 
 Deze Nederlandse audio productie kennisbank wordt maandelijks geüpdatet met Nederlandse audio technologie ontwikkelingen en Nederlandse markt trends.
+
+## Agent Capability Matrix
+
+### Nederlandse 20-Agent Ecosystem Overview
+
+**Nederlandse Content Creation Specialists:**
+- **Marcus (Script Schrijver):** Nederlandse algemene Nederlandse script writing, Nederlandse verhaal ontwikkeling, Nederlandse content Nederlandse structuur
+- **Finn (Audio Script Specialist):** Nederlandse audio-specifieke Nederlandse scripts, Nederlandse podcast Nederlandse content, Nederlandse 60-seconde Nederlandse audio
+- **Alex (Video Script Afstemming):** Nederlandse video Nederlandse script Nederlandse alignment, Nederlandse visuele Nederlandse storytelling Nederlandse vertaling
+- **Emma (Virale Content Maker):** Nederlandse viral Nederlandse content Nederlandse creation, Nederlandse social Nederlandse media Nederlandse optimization
+
+**Nederlandse Production Specialists:**
+- **Zara (Sound Design & Audio Productie):** Nederlandse sound Nederlandse design, Nederlandse audio Nederlandse post-productie, Nederlandse ElevenLabs Nederlandse integratie
+- **Robin (AI Video Productie):** Nederlandse AI Nederlandse video Nederlandse generatie, Nederlandse Veo 3/Kling AI Nederlandse expertise
+- **Maya (Post-Productie Supervisor):** Nederlandse video Nederlandse post-productie, Nederlandse workflow Nederlandse management
+- **Nova (Voice Drama & Interactieve Audio):** Nederlandse voice Nederlandse drama, Nederlandse interactieve Nederlandse audio Nederlandse experiences
+
+**Nederlandse Strategy & Direction Specialists:**
+- **Sophia (Creatief Directeur):** Nederlandse creative Nederlandse vision, Nederlandse overall Nederlandse project Nederlandse direction
+- **David (Merk Strateeg):** Nederlandse brand Nederlandse strategy, Nederlandse merk Nederlandse ontwikkeling
+- **Kai (Audio Content Directeur):** Nederlandse audio Nederlandse content Nederlandse strategy, Nederlandse multi-platform Nederlandse audio Nederlandse planning
+- **Quinn (Project Manager):** Nederlandse workflow Nederlandse orchestratie, Nederlandse multi-agent Nederlandse coördinatie
+
+**Nederlandse Enhancement & Optimization Specialists:**
+- **Vera (Tekst Verbetering):** Nederlandse text Nederlandse enhancement, Nederlandse TTS Nederlandse optimization
+- **Lars (Marketing Specialist):** Nederlandse marketing Nederlandse campaigns, Nederlandse promotional Nederlandse content
+- **Iris (Trend Onderzoeker):** Nederlandse trend Nederlandse analysis, Nederlandse market Nederlandse research
+- **Manus (Nederlandse Taal & Stijl):** Nederlandse language Nederlandse quality, Nederlandse cultural Nederlandse authenticity
+
+### Nederlandse Agent Collaboration Patterns
+
+**Nederlandse Video Production Pipeline:**
+1. **Marcus** → Nederlandse base Nederlandse script → **Alex** → Nederlandse video Nederlandse script Nederlandse alignment → **Robin** → Nederlandse AI Nederlandse video Nederlandse generation → **Maya** → Nederlandse post-productie Nederlandse finalization
+
+**Nederlandse Audio Production Pipeline:**
+1. **Finn** → Nederlandse audio Nederlandse script → **Zara** → Nederlandse sound Nederlandse design & Nederlandse production → **Kai** → Nederlandse audio Nederlandse strategy & Nederlandse distribution
+
+**Nederlandse Multi-Modal Content Pipeline:**
+1. **Sophia** → Nederlandse creative Nederlandse direction → **Marcus/Finn** → Nederlandse content Nederlandse creation → **Alex/Robin** + **Zara** → Nederlandse parallel Nederlandse production → **Maya** → Nederlandse final Nederlandse integration
+
+**Nederlandse Marketing Campaign Pipeline:**
+1. **David** → Nederlandse brand Nederlandse strategy → **Iris** → Nederlandse trend Nederlandse analysis → **Lars** → Nederlandse marketing Nederlandse strategy → **Emma** → Nederlandse viral Nederlandse content → **Multiple Nederlandse Production Nederlandse Agents** → Nederlandse content Nederlandse creation
+
+### Nederlandse Agent Specialization Matrix
+
+**Nederlandse Content Types vs Nederlandse Agent Expertise:**
+
+| Nederlandse Content Type | Nederlandse Primary Nederlandse Agents | Nederlandse Supporting Nederlandse Agents | Nederlandse Quality Nederlandse Specialists |
+|---|---|---|---|
+| Nederlandse Podcast Nederlandse Episodes | Finn, Zara, Kai | Marcus, Vera, Manus | Quinn (Nederlandse coordination) |
+| Nederlandse AI Nederlandse Video Nederlandse Content | Alex, Robin, Maya | Marcus, Sophia, Vera | Quinn (Nederlandse workflow) |
+| Nederlandse Marketing Nederlandse Campaigns | Lars, Emma, David | Iris, Sophia, Marcus | Quinn (Nederlandse multi-agent) |
+| Nederlandse Voice Nederlandse Drama | Nova, Finn, Zara | Marcus, Kai, Vera | Quinn (Nederlandse complex Nederlandse workflow) |
+| Nederlandse Brand Nederlandse Development | David, Sophia, Manus | Lars, Iris, Emma | Quinn (Nederlandse strategic Nederlandse coordination) |
+| Nederlandse Viral Nederlandse Social Nederlandse Content | Emma, Lars, Iris | Marcus, Finn, Alex | Quinn (Nederlandse trend-based Nederlandse workflow) |
+
+## Workflow Optimization Patterns
+
+### Nederlandse Project Complexity Classification
+
+**Nederlandse Level 1: Single-Agent Tasks (Nederlandse Complexity 1-3)**
+- Nederlandse simple Nederlandse content Nederlandse requests
+- Nederlandse single Nederlandse deliverable Nederlandse focus
+- Nederlandse minimal Nederlandse quality Nederlandse requirements
+- **Nederlandse Recommended Nederlandse Approach:** Nederlandse direct Nederlandse agent Nederlandse assignment
+- **Nederlandse Quality Nederlandse Gates:** Nederlandse 3-5 Nederlandse essential Nederlandse checks
+- **Nederlandse Timeline:** Nederlandse 1-3 Nederlandse dagen
+
+**Nederlandse Level 2: Multi-Agent Coordination (Nederlandse Complexity 4-6)**
+- Nederlandse cross-modal Nederlandse content Nederlandse creation
+- Nederlandse multiple Nederlandse deliverables met Nederlandse dependencies
+- Nederlandse moderate Nederlandse quality Nederlandse standards
+- **Nederlandse Recommended Nederlandse Approach:** Nederlandse sequential Nederlandse agent Nederlandse workflow
+- **Nederlandse Quality Nederlandse Gates:** Nederlandse 8-15 Nederlandse targeted Nederlandse checks
+- **Nederlandse Timeline:** Nederlandse 1-2 Nederlandse weken
+
+**Nederlandse Level 3: Complex Multi-Agent Projects (Nederlandse Complexity 7-8)**
+- Nederlandse comprehensive Nederlandse campaigns
+- Nederlandse multiple Nederlandse content Nederlandse types
+- **Nederlandse high Nederlandse quality Nederlandse standards
+- **Nederlandse Recommended Nederlandse Approach:** Nederlandse parallel + Nederlandse sequential Nederlandse workflows
+- **Nederlandse Quality Nederlandse Gates:** Nederlandse 15-25 Nederlandse comprehensive Nederlandse checks
+- **Nederlandse Timeline:** Nederlandse 2-4 Nederlandse weken
+
+**Nederlandse Level 4: Enterprise Multi-Modal Projects (Nederlandse Complexity 9-10)**
+- Nederlandse complete Nederlandse brand Nederlandse campaigns
+- Nederlandse multiple Nederlandse platforms en Nederlandse formats
+- Nederlandse broadcast/enterprise Nederlandse quality Nederlandse standards
+- **Nederlandse Recommended Nederlandse Approach:** Nederlandse complex Nederlandse orchestrated Nederlandse workflows
+- **Nederlandse Quality Nederlandse Gates:** Nederlandse 25-35 Nederlandse enterprise-grade Nederlandse checks
+- **Nederlandse Timeline:** Nederlandse 1-3 Nederlandse maanden
+
+### Nederlandse Workflow Optimization Strategies
+
+**Nederlandse Parallel Processing Opportunities:**
+- **Nederlandse Content Nederlandse Creation + Nederlandse Design:** Marcus/Finn + Zara/Robin Nederlandse simultaneous Nederlandse work
+- **Nederlandse Multi-Platform Nederlandse Optimization:** Alex + Finn Nederlandse parallel Nederlandse script Nederlandse development
+- **Nederlandse Quality Nederlandse Assurance + Nederlandse Production:** Nederlandse ongoing Nederlandse quality Nederlandse checks Nederlandse during Nederlandse production
+- **Nederlandse Research + Nederlandse Strategy:** Iris + David Nederlandse concurrent Nederlandse analysis
+
+**Nederlandse Sequential Dependencies:**
+- **Nederlandse Script → Nederlandse Production:** Nederlandse content Nederlandse must Nederlandse be Nederlandse finalized Nederlandse before Nederlandse production Nederlandse begins
+- **Nederlandse Strategy → Nederlandse Execution:** Nederlandse brand/marketing Nederlandse strategy Nederlandse before Nederlandse content Nederlandse creation
+- **Nederlandse Production → Nederlandse Post-Production:** Nederlandse raw Nederlandse content Nederlandse before Nederlandse enhancement/editing
+- **Nederlandse Individual → Nederlandse Integration:** Nederlandse separate Nederlandse components Nederlandse before Nederlandse final Nederlandse assembly
+
+**Nederlandse Bottleneck Prevention:**
+- **Nederlandse Agent Nederlandse Overload:** Nederlandse distribute Nederlandse workload Nederlandse across Nederlandse similar Nederlandse specialists
+- **Nederlandse Quality Nederlandse Bottlenecks:** Nederlandse implement Nederlandse progressive Nederlandse quality Nederlandse gates
+- **Nederlandse Dependency Nederlandse Chains:** Nederlandse identify Nederlandse critical Nederlandse path en Nederlandse optimize Nederlandse sequencing
+- **Nederlandse Communication Nederlandse Gaps:** Nederlandse implement Nederlandse structured Nederlandse handoff Nederlandse protocols
+
+## Project Template Library
+
+### Nederlandse Standard Project Templates
+
+**Nederlandse Template 1: Nederlandse Podcast Nederlandse Series Nederlandse Launch**
+- **Nederlandse Agents:** Finn (Nederlandse scripts) → Zara (Nederlandse production) → Kai (Nederlandse strategy) → Quinn (Nederlandse coordination)
+- **Nederlandse Duration:** Nederlandse 2-3 Nederlandse weken
+- **Nederlandse Deliverables:** Nederlandse 5-10 Nederlandse episodes, Nederlandse intro/outro, Nederlandse promotional Nederlandse materials
+- **Nederlandse Quality Nederlandse Focus:** Nederlandse audio Nederlandse excellence, Nederlandse cultural Nederlandse authenticity
+
+**Nederlandse Template 2: Nederlandse AI Nederlandse Video Nederlandse Campaign**
+- **Nederlandse Agents:** Alex (Nederlandse video Nederlandse scripts) → Robin (Nederlandse AI Nederlandse generation) → Maya (Nederlandse post-production) → Lars (Nederlandse marketing)
+- **Nederlandse Duration:** Nederlandse 1-2 Nederlandse weken
+- **Nederlandse Deliverables:** Nederlandse 3-5 Nederlandse AI Nederlandse videos, Nederlandse social Nederlandse media Nederlandse variants
+- **Nederlandse Quality Nederlandse Focus:** Nederlandse visual Nederlandse consistency, Nederlandse platform Nederlandse optimization
+
+**Nederlandse Template 3: Nederlandse Multi-Modal Nederlandse Brand Nederlandse Campaign**
+- **Nederlandse Agents:** David (Nederlandse strategy) → Sophia (Nederlandse creative Nederlandse direction) → Marcus/Finn (Nederlandse content) → Robin/Zara (Nederlandse production) → Maya (Nederlandse integration)
+- **Nederlandse Duration:** Nederlandse 3-4 Nederlandse weken
+- **Nederlandse Deliverables:** Nederlandse video, Nederlandse audio, Nederlandse text Nederlandse content Nederlandse across Nederlandse multiple Nederlandse platforms
+- **Nederlandse Quality Nederlandse Focus:** Nederlandse brand Nederlandse consistency, Nederlandse cross-platform Nederlandse optimization
+
+**Nederlandse Template 4: Nederlandse Viral Nederlandse Content Nederlandse Series**
+- **Nederlandse Agents:** Iris (Nederlandse trend Nederlandse research) → Emma (Nederlandse viral Nederlandse strategy) → Marcus/Finn (Nederlandse content) → Robin/Zara (Nederlandse production)
+- **Nederlandse Duration:** Nederlandse 1-2 Nederlandse weken
+- **Nederlandse Deliverables:** Nederlandse 10-20 Nederlandse short-form Nederlandse content Nederlandse pieces
+- **Nederlandse Quality Nederlandse Focus:** Nederlandse trend Nederlandse alignment, Nederlandse engagement Nederlandse optimization
+
+### Nederlandse Custom Workflow Patterns
+
+**Nederlandse Pattern 1: Nederlandse Research-Driven Nederlandse Content**
+1. **Iris** → Nederlandse trend Nederlandse analysis
+2. **David/Kai** → Nederlandse strategy Nederlandse development
+3. **Marcus/Finn** → Nederlandse content Nederlandse creation
+4. **Production Nederlandse Agents** → Nederlandse content Nederlandse realization
+5. **Quinn** → Nederlandse workflow Nederlandse coordination
+
+**Nederlandse Pattern 2: Nederlandse Quality-First Nederlandse Production**
+1. **Sophia** → Nederlandse creative Nederlandse vision
+2. **Manus** → Nederlandse cultural Nederlandse authenticity Nederlandse review
+3. **Content Nederlandse Agents** → Nederlandse creation met Nederlandse ongoing Nederlandse quality Nederlandse checks
+4. **Vera** → Nederlandse text Nederlandse enhancement
+5. **Production Nederlandse Agents** → Nederlandse high-quality Nederlandse realization
+
+**Nederlandse Pattern 3: Nederlandse Speed-Optimized Nederlandse Delivery**
+1. **Quinn** → Nederlandse rapid Nederlandse agent Nederlandse selection
+2. **Parallel Nederlandse Content Nederlandse Creation** → Nederlandse multiple Nederlandse agents Nederlandse simultaneously
+3. **Streamlined Nederlandse Quality Nederlandse Gates** → Nederlandse essential Nederlandse checks Nederlandse only
+4. **Rapid Nederlandse Integration** → Nederlandse fast Nederlandse final Nederlandse assembly
+
+## Quality Management Framework
+
+### Nederlandse Dynamic Quality Gate Selection
+
+**Nederlandse Quality Dimension Mapping:**
+- **Nederlandse Technical Nederlandse Quality:** Nederlandse audio/video Nederlandse technical Nederlandse standards, Nederlandse platform Nederlandse compliance
+- **Nederlandse Cultural Nederlandse Authenticity:** Nederlandse Dutch Nederlandse cultural Nederlandse correctness, Nederlandse regional Nederlandse appropriateness
+- **Nederlandse Content Nederlandse Excellence:** Nederlandse storytelling Nederlandse quality, Nederlandse engagement Nederlandse potential
+- **Nederlandse Brand Nederlandse Alignment:** Nederlandse brand Nederlandse consistency, Nederlandse messaging Nederlandse accuracy
+- **Nederlandse Platform Nederlandse Optimization:** Nederlandse platform-specific Nederlandse requirements, Nederlandse distribution Nederlandse readiness
+
+**Nederlandse Project-Type Nederlandse Quality Nederlandse Priorities:**
+
+| Nederlandse Project Nederlandse Type | Nederlandse Top Nederlandse Quality Nederlandse Dimensions | Nederlandse Essential Nederlandse Checks | Nederlandse Optional Nederlandse Checks |
+|---|---|---|---|
+| Nederlandse Podcast Nederlandse Production | Nederlandse Technical, Nederlandse Cultural | Nederlandse 8-12 Nederlandse checks | Nederlandse 15-20 Nederlandse checks |
+| Nederlandse AI Nederlandse Video | Nederlandse Technical, Nederlandse Platform | Nederlandse 10-15 Nederlandse checks | Nederlandse 20-25 Nederlandse checks |
+| Nederlandse Marketing Nederlandse Campaign | Nederlandse Brand, Nederlandse Platform | Nederlandse 12-18 Nederlandse checks | Nederlandse 25-30 Nederlandse checks |
+| Nederlandse Voice Nederlandse Drama | Nederlandse Cultural, Nederlandse Content | Nederlandse 15-20 Nederlandse checks | Nederlandse 30-35 Nederlandse checks |
+
+### Nederlandse Progressive Quality Implementation
+
+**Nederlandse Quality Nederlandse Gate Nederlandse Timing:**
+- **Nederlandse 25% Nederlandse Completion:** Nederlandse foundational Nederlandse quality Nederlandse checks (Nederlandse 3-5 Nederlandse items)
+- **Nederlandse 50% Nederlandse Completion:** Nederlandse intermediate Nederlandse quality Nederlandse validation (Nederlandse 5-10 Nederlandse items)
+- **Nederlandse 75% Nederlandse Completion:** Nederlandse advanced Nederlandse quality Nederlandse review (Nederlandse 8-15 Nederlandse items)
+- **Nederlandse 100% Nederlandse Completion:** Nederlandse comprehensive Nederlandse final Nederlandse quality Nederlandse assurance (Nederlandse 10-20 Nederlandse items)
+
+**Nederlandse Quality Nederlandse Score Nederlandse Prediction:**
+- **Nederlandse Historical Nederlandse Performance Nederlandse Analysis:** Nederlandse track Nederlandse agent Nederlandse quality Nederlandse outcomes
+- **Nederlandse Project Nederlandse Complexity Nederlandse Correlation:** Nederlandse adjust Nederlandse expectations Nederlandse based Nederlandse on Nederlandse complexity
+- **Nederlandse Resource Nederlandse Allocation Nederlandse Impact:** Nederlandse quality Nederlandse vs Nederlandse speed Nederlandse trade-offs
+- **Nederlandse Stakeholder Nederlandse Requirement Nederlandse Alignment:** Nederlandse match Nederlandse quality Nederlandse level Nederlandse to Nederlandse expectations
+
+Deze Nederlandse project management kennisbank wordt continu geüpdatet gebaseerd op Nederlandse project outcomes en Nederlandse workflow optimization learnings.

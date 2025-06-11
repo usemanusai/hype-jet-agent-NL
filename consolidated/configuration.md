@@ -388,6 +388,39 @@
   - "Interactief"
   - "YOLO"
 
+### Titel: Project Manager & Workflow Orchestrator
+
+- **Naam:** Quinn
+- **Aanpassing:** "Nederlandse project management expert en intelligente workflow orchestrator die als primaire coördinator fungeert voor alle 19 Nederlandse agents. Expert in automatische project analyse, dynamische agent selectie, slimme kwaliteitsborging en real-time workflow coördinatie voor Nederlandse multi-agent projecten."
+- **Beschrijving:** "Nederlandse project manager en workflow orchestrator voor Nederlandse multi-agent content productie"
+- **Persona:** "agent-personas.md#project-manager-workflow-orchestrator"
+- **Taken:**
+  - [Intelligente Project Analyse](tasks-workflows.md#intelligente-project-analyse)
+  - [Dynamische Agent Selectie & Sequencing](tasks-workflows.md#dynamische-agent-selectie-sequencing)
+  - [Smart Quality Gate Management](tasks-workflows.md#smart-quality-gate-management)
+  - [Workflow Orchestratie & Project Coördinatie](tasks-workflows.md#workflow-orchestratie-project-coordinatie)
+  - [Multi-Agent Resource Planning](tasks-workflows.md#multi-agent-resource-planning)
+  - [Project Dashboard & Progress Tracking](tasks-workflows.md#project-dashboard-progress-tracking)
+- **Sjablonen:**
+  - [Project Analyse Sjabloon](templates.md#project-analyse-sjabloon)
+  - [Multi-Agent Workflow Sjabloon](templates.md#multi-agent-workflow-sjabloon)
+  - [Quality Gate Management Sjabloon](templates.md#quality-gate-management-sjabloon)
+  - [Project Dashboard Sjabloon](templates.md#project-dashboard-sjabloon)
+- **Data:**
+  - [Agent Capability Matrix](knowledge-base.md#agent-capability-matrix)
+  - [Workflow Optimization Patterns](knowledge-base.md#workflow-optimization-patterns)
+  - [Project Template Library](knowledge-base.md#project-template-library)
+  - [Quality Management Framework](knowledge-base.md#quality-management-framework)
+- **Checklists:**
+  - [Project Setup Checklist](checklists-quality.md#project-setup-checklist)
+  - [Agent Coordination Checklist](checklists-quality.md#agent-coordination-checklist)
+  - [Quality Gate Validation Checklist](checklists-quality.md#quality-gate-validation-checklist)
+  - [Project Completion Checklist](checklists-quality.md#project-completion-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+  - "Auto-Pilot"
+
 ## Advisory Council Configuration
 
 ### Nederlandse Advisory Council Overzicht
@@ -547,6 +580,7 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `agent-personas.md#sound-design-audio-productie-specialist` → Zara Sound Design & Audio Productie Specialist Persona
 - `agent-personas.md#audio-content-directeur` → Kai Audio Content Directeur Persona
 - `agent-personas.md#voice-drama-interactieve-audio-specialist` → Nova Voice Drama & Interactieve Audio Specialist Persona
+- `agent-personas.md#project-manager-workflow-orchestrator` → Quinn Project Manager & Workflow Orchestrator Persona
 
 ### Task Resource Mapping
 - `tasks-workflows.md#maak-reclame-script` → Nederlandse Reclame Script Creatie Taak
@@ -595,6 +629,12 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `tasks-workflows.md#interactieve-audio-ervaring-creatie` → Nederlandse Interactieve Audio Ervaring Creatie Taak
 - `tasks-workflows.md#nederlandse-audio-theater-productie` → Nederlandse Audio Theater Productie Taak
 - `tasks-workflows.md#audio-gaming-content-ontwikkeling` → Nederlandse Audio Gaming Content Ontwikkeling Taak
+- `tasks-workflows.md#intelligente-project-analyse` → Nederlandse Intelligente Project Analyse Taak
+- `tasks-workflows.md#dynamische-agent-selectie-sequencing` → Nederlandse Dynamische Agent Selectie & Sequencing Taak
+- `tasks-workflows.md#smart-quality-gate-management` → Nederlandse Smart Quality Gate Management Taak
+- `tasks-workflows.md#workflow-orchestratie-project-coordinatie` → Nederlandse Workflow Orchestratie & Project Coördinatie Taak
+- `tasks-workflows.md#multi-agent-resource-planning` → Nederlandse Multi-Agent Resource Planning Taak
+- `tasks-workflows.md#project-dashboard-progress-tracking` → Nederlandse Project Dashboard & Progress Tracking Taak
 
 ### Template Resource Mapping
 - `templates.md#reclame-script-sjabloon` → Nederlandse Reclame Script Sjabloon
@@ -620,6 +660,10 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `templates.md#audio-merk-ontwikkeling-sjabloon` → Nederlandse Audio Merk Ontwikkeling Sjabloon
 - `templates.md#voice-drama-script-sjabloon` → Nederlandse Voice Drama Script Sjabloon
 - `templates.md#interactieve-audio-sjabloon` → Nederlandse Interactieve Audio Sjabloon
+- `templates.md#project-analyse-sjabloon` → Nederlandse Project Analyse Sjabloon
+- `templates.md#multi-agent-workflow-sjabloon` → Nederlandse Multi-Agent Workflow Sjabloon
+- `templates.md#quality-gate-management-sjabloon` → Nederlandse Quality Gate Management Sjabloon
+- `templates.md#project-dashboard-sjabloon` → Nederlandse Project Dashboard Sjabloon
 
 ### Checklist Resource Mapping
 - `checklists-quality.md#script-kwaliteit-checklist-nl` → Nederlandse Script Kwaliteit Checklist
@@ -652,3 +696,7 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `checklists-quality.md#voice-drama-kwaliteit-checklist` → Nederlandse Voice Drama Kwaliteit Checklist
 - `checklists-quality.md#interactieve-audio-checklist` → Nederlandse Interactieve Audio Checklist
 - `checklists-quality.md#nederlandse-audio-theater-checklist` → Nederlandse Audio Theater Checklist
+- `checklists-quality.md#project-setup-checklist` → Nederlandse Project Setup Checklist
+- `checklists-quality.md#agent-coordination-checklist` → Nederlandse Agent Coordination Checklist
+- `checklists-quality.md#quality-gate-validation-checklist` → Nederlandse Quality Gate Validation Checklist
+- `checklists-quality.md#project-completion-checklist` → Nederlandse Project Completion Checklist
