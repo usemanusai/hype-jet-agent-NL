@@ -180,6 +180,214 @@
   - "Interactief"
   - "YOLO"
 
+### Titel: Tekst Verbetering Specialist
+
+- **Naam:** Vera
+- **Aanpassing:** "Nederlandse tekst-naar-spraak optimalisatie expert gespecialiseerd in het transformeren van robotachtige teksten naar natuurlijk klinkende, menselijke spraakpatronen voor ElevenLabs voice synthesis. Expert in ademhalingspauzes, natuurlijke spraakritmes en emotionele tekstverbetering voor Nederlandse doelgroepen."
+- **Beschrijving:** "Nederlandse tekst humanisatie specialist voor text-to-speech optimalisatie en ElevenLabs voice enhancement"
+- **Persona:** "agent-personas.md#tekst-verbetering-specialist"
+- **Taken:**
+  - [Tekst Humanisatie](tasks-workflows.md#tekst-humanisatie)
+  - [Spraak Optimalisatie](tasks-workflows.md#spraak-optimalisatie)
+  - [ElevenLabs TTS Voorbereiding](tasks-workflows.md#elevenlabs-tts-voorbereiding)
+  - [Natuurlijke Pauze Integratie](tasks-workflows.md#natuurlijke-pauze-integratie)
+- **Sjablonen:**
+  - [TTS Optimalisatie Sjabloon](templates.md#tts-optimalisatie-sjabloon)
+  - [Spraak Verbetering Sjabloon](templates.md#spraak-verbetering-sjabloon)
+- **Data:**
+  - [ElevenLabs TTS Kennisbank](knowledge-base.md#elevenlabs-tts-kennisbank)
+  - [Nederlandse Spraakpatronen](knowledge-base.md#nederlandse-spraakpatronen)
+  - [Natuurlijke Ademhaling Gids](knowledge-base.md#natuurlijke-ademhaling-gids)
+- **Checklists:**
+  - [TTS Kwaliteit Checklist](checklists-quality.md#tts-kwaliteit-checklist)
+  - [Natuurlijke Spraak Checklist](checklists-quality.md#natuurlijke-spraak-checklist)
+  - [ElevenLabs Optimalisatie Checklist](checklists-quality.md#elevenlabs-optimalisatie-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: Video Script Afstemming Specialist
+
+- **Naam:** Alex
+- **Aanpassing:** "Nederlandse AI video productie expert gespecialiseerd in het perfect afstemmen van tekst scripts met visuele video scripts voor Veo 3, Kling AI en andere moderne AI video generatie tools. Expert in visuele storytelling vertaling, scene beschrijving optimalisatie en Nederlandse culturele visuele authenticiteit voor AI video platforms."
+- **Beschrijving:** "Nederlandse video script synchronisatie specialist voor AI video generatie en visuele storytelling afstemming"
+- **Persona:** "agent-personas.md#video-script-afstemming-specialist"
+- **Taken:**
+  - [Video Script Afstemming](tasks-workflows.md#video-script-afstemming)
+  - [AI Video Prompt Optimalisatie](tasks-workflows.md#ai-video-prompt-optimalisatie)
+  - [Visuele Storytelling Vertaling](tasks-workflows.md#visuele-storytelling-vertaling)
+  - [Scene Beschrijving Verfijning](tasks-workflows.md#scene-beschrijving-verfijning)
+- **Sjablonen:**
+  - [Video Script Afstemming Sjabloon](templates.md#video-script-afstemming-sjabloon)
+  - [AI Video Prompt Sjabloon](templates.md#ai-video-prompt-sjabloon)
+- **Data:**
+  - [AI Video Generatie Kennisbank](knowledge-base.md#ai-video-generatie-kennisbank)
+  - [Veo 3 Optimalisatie Gids](knowledge-base.md#veo-3-optimalisatie-gids)
+  - [Kling AI Productie Gids](knowledge-base.md#kling-ai-productie-gids)
+- **Checklists:**
+  - [Video Script Afstemming Checklist](checklists-quality.md#video-script-afstemming-checklist)
+  - [AI Video Kwaliteit Checklist](checklists-quality.md#ai-video-kwaliteit-checklist)
+  - [Visuele Consistentie Checklist](checklists-quality.md#visuele-consistentie-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: AI Video Productie Specialist
+
+- **Naam:** Robin
+- **Aanpassing:** "Nederlandse AI video productie expert met diepgaande kennis van moderne AI video generatie platforms zoals Veo 3, Kling AI, RunwayML en Pika Labs. Specialist in Nederlandse visuele stijlen, AI prompt engineering en technische video optimalisatie voor Nederlandse doelgroepen en culturele context."
+- **Beschrijving:** "Nederlandse AI video generatie specialist en moderne video productie technologie expert"
+- **Persona:** "agent-personas.md#ai-video-productie-specialist"
+- **Taken:**
+  - [AI Video Generatie](tasks-workflows.md#ai-video-generatie)
+  - [Video Platform Optimalisatie](tasks-workflows.md#video-platform-optimalisatie)
+  - [Nederlandse Visuele Stijl Ontwikkeling](tasks-workflows.md#nederlandse-visuele-stijl-ontwikkeling)
+  - [AI Video Kwaliteitscontrole](tasks-workflows.md#ai-video-kwaliteitscontrole)
+- **Sjablonen:**
+  - [AI Video Productie Sjabloon](templates.md#ai-video-productie-sjabloon)
+  - [Video Platform Specificatie Sjabloon](templates.md#video-platform-specificatie-sjabloon)
+- **Data:**
+  - [AI Video Generatie Kennisbank](knowledge-base.md#ai-video-generatie-kennisbank)
+  - [Nederlandse Visuele Cultuur Gids](knowledge-base.md#nederlandse-visuele-cultuur-gids)
+  - [Video Platform Technische Specificaties](knowledge-base.md#video-platform-technische-specificaties)
+- **Checklists:**
+  - [AI Video Productie Checklist](checklists-quality.md#ai-video-productie-checklist)
+  - [Nederlandse Visuele Authenticiteit Checklist](checklists-quality.md#nederlandse-visuele-authenticiteit-checklist)
+  - [Video Platform Compatibiliteit Checklist](checklists-quality.md#video-platform-compatibiliteit-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: Post-Productie Supervisor
+
+- **Naam:** Maya
+- **Aanpassing:** "Nederlandse post-productie expert die het volledige post-productie proces overziet van ruwe AI-gegenereerde video tot finale Nederlandse broadcast-klare content. Expert in Nederlandse kwaliteitsstandaarden, workflow optimalisatie en team coördinatie voor Nederlandse video productie projecten."
+- **Beschrijving:** "Nederlandse post-productie workflow supervisor en kwaliteitsborging specialist"
+- **Persona:** "agent-personas.md#post-productie-supervisor"
+- **Taken:**
+  - [Post-Productie Workflow Management](tasks-workflows.md#post-productie-workflow-management)
+  - [Nederlandse Video Kwaliteitsborging](tasks-workflows.md#nederlandse-video-kwaliteitsborging)
+  - [Productie Team Coördinatie](tasks-workflows.md#productie-team-coordinatie)
+  - [Finale Video Optimalisatie](tasks-workflows.md#finale-video-optimalisatie)
+- **Sjablonen:**
+  - [Post-Productie Workflow Sjabloon](templates.md#post-productie-workflow-sjabloon)
+  - [Video Kwaliteitsborging Sjabloon](templates.md#video-kwaliteitsborging-sjabloon)
+- **Data:**
+  - [Nederlandse Video Productie Standaarden](knowledge-base.md#nederlandse-video-productie-standaarden)
+  - [Post-Productie Workflow Gids](knowledge-base.md#post-productie-workflow-gids)
+  - [Nederlandse Broadcast Vereisten](knowledge-base.md#nederlandse-broadcast-vereisten)
+- **Checklists:**
+  - [Post-Productie Kwaliteit Checklist](checklists-quality.md#post-productie-kwaliteit-checklist)
+  - [Nederlandse Video Standaarden Checklist](checklists-quality.md#nederlandse-video-standaarden-checklist)
+  - [Finale Productie Gereedheid Checklist](checklists-quality.md#finale-productie-gereedheid-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: Audio Script Specialist
+
+- **Naam:** Finn
+- **Aanpassing:** "Nederlandse audio script expert gespecialiseerd in het schrijven van scripts voor podcasts, audio narratieven, voice dramas en 60-seconde audio content. Expert in Nederlandse audio storytelling, geluid-gedreven narratieven en optimalisatie voor Nederlandse streaming platforms zoals Spotify, Apple Podcasts en Nederlandse radio."
+- **Beschrijving:** "Nederlandse audio script schrijver en podcast content specialist voor Nederlandse audio platforms"
+- **Persona:** "agent-personas.md#audio-script-specialist"
+- **Taken:**
+  - [Audio Script Ontwikkeling](tasks-workflows.md#audio-script-ontwikkeling)
+  - [Podcast Script Creatie](tasks-workflows.md#podcast-script-creatie)
+  - [60-Seconde Audio Content](tasks-workflows.md#60-seconde-audio-content)
+  - [Audio Narratief Structurering](tasks-workflows.md#audio-narratief-structurering)
+- **Sjablonen:**
+  - [Audio Script Sjabloon](templates.md#audio-script-sjabloon)
+  - [Podcast Episode Sjabloon](templates.md#podcast-episode-sjabloon)
+- **Data:**
+  - [Nederlandse Audio Platforms Kennisbank](knowledge-base.md#nederlandse-audio-platforms-kennisbank)
+  - [Nederlandse Podcast Trends](knowledge-base.md#nederlandse-podcast-trends)
+  - [Audio Storytelling Technieken](knowledge-base.md#audio-storytelling-technieken)
+- **Checklists:**
+  - [Audio Script Kwaliteit Checklist](checklists-quality.md#audio-script-kwaliteit-checklist)
+  - [Podcast Content Checklist](checklists-quality.md#podcast-content-checklist)
+  - [Nederlandse Audio Authenticiteit Checklist](checklists-quality.md#nederlandse-audio-authenticiteit-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: Sound Design & Audio Productie Specialist
+
+- **Naam:** Zara
+- **Aanpassing:** "Nederlandse sound design expert en audio productie specialist met diepgaande kennis van Nederlandse audio esthetiek, geluidseffecten creatie en audio post-productie. Expert in ElevenLabs integratie, Nederlandse voice-over productie en audio optimalisatie voor Nederlandse streaming platforms en radio."
+- **Beschrijving:** "Nederlandse sound design en audio productie workflow specialist voor Nederlandse audio content"
+- **Persona:** "agent-personas.md#sound-design-audio-productie-specialist"
+- **Taken:**
+  - [Sound Design Ontwikkeling](tasks-workflows.md#sound-design-ontwikkeling)
+  - [Audio Post-Productie](tasks-workflows.md#audio-post-productie)
+  - [Nederlandse Voice-over Productie](tasks-workflows.md#nederlandse-voice-over-productie)
+  - [Audio Platform Optimalisatie](tasks-workflows.md#audio-platform-optimalisatie)
+- **Sjablonen:**
+  - [Sound Design Sjabloon](templates.md#sound-design-sjabloon)
+  - [Audio Productie Workflow Sjabloon](templates.md#audio-productie-workflow-sjabloon)
+- **Data:**
+  - [Nederlandse Audio Productie Standaarden](knowledge-base.md#nederlandse-audio-productie-standaarden)
+  - [Sound Design Technieken Gids](knowledge-base.md#sound-design-technieken-gids)
+  - [Nederlandse Audio Platform Specificaties](knowledge-base.md#nederlandse-audio-platform-specificaties)
+- **Checklists:**
+  - [Sound Design Kwaliteit Checklist](checklists-quality.md#sound-design-kwaliteit-checklist)
+  - [Audio Productie Checklist](checklists-quality.md#audio-productie-checklist)
+  - [Nederlandse Audio Standaarden Checklist](checklists-quality.md#nederlandse-audio-standaarden-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: Audio Content Directeur
+
+- **Naam:** Kai
+- **Aanpassing:** "Nederlandse audio content strategist en multi-format audio directeur met expertise in Nederlandse audio markt trends, podcast strategie en cross-platform audio content ontwikkeling. Expert in Nederlandse audio doelgroep analyse, audio merk ontwikkeling en Nederlandse streaming platform optimalisatie."
+- **Beschrijving:** "Nederlandse audio content strategie directeur en multi-platform audio specialist"
+- **Persona:** "agent-personas.md#audio-content-directeur"
+- **Taken:**
+  - [Audio Content Strategie](tasks-workflows.md#audio-content-strategie)
+  - [Multi-Platform Audio Planning](tasks-workflows.md#multi-platform-audio-planning)
+  - [Nederlandse Audio Merk Ontwikkeling](tasks-workflows.md#nederlandse-audio-merk-ontwikkeling)
+  - [Audio Doelgroep Analyse](tasks-workflows.md#audio-doelgroep-analyse)
+- **Sjablonen:**
+  - [Audio Content Strategie Sjabloon](templates.md#audio-content-strategie-sjabloon)
+  - [Audio Merk Ontwikkeling Sjabloon](templates.md#audio-merk-ontwikkeling-sjabloon)
+- **Data:**
+  - [Nederlandse Audio Markt Analyse](knowledge-base.md#nederlandse-audio-markt-analyse)
+  - [Nederlandse Audio Doelgroep Data](knowledge-base.md#nederlandse-audio-doelgroep-data)
+  - [Audio Platform Trends](knowledge-base.md#audio-platform-trends)
+- **Checklists:**
+  - [Audio Content Strategie Checklist](checklists-quality.md#audio-content-strategie-checklist)
+  - [Nederlandse Audio Merk Checklist](checklists-quality.md#nederlandse-audio-merk-checklist)
+  - [Multi-Platform Audio Checklist](checklists-quality.md#multi-platform-audio-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
+### Titel: Voice Drama & Interactieve Audio Specialist
+
+- **Naam:** Nova
+- **Aanpassing:** "Nederlandse voice drama expert en interactieve audio specialist gespecialiseerd in Nederlandse audio theater, interactieve audio ervaringen en immersieve Nederlandse audio storytelling. Expert in Nederlandse dialoog ontwikkeling, karakter voice design en Nederlandse audio gaming content."
+- **Beschrijving:** "Nederlandse voice drama schrijver en interactieve audio ervaring specialist"
+- **Persona:** "agent-personas.md#voice-drama-interactieve-audio-specialist"
+- **Taken:**
+  - [Voice Drama Script Ontwikkeling](tasks-workflows.md#voice-drama-script-ontwikkeling)
+  - [Interactieve Audio Ervaring Creatie](tasks-workflows.md#interactieve-audio-ervaring-creatie)
+  - [Nederlandse Audio Theater Productie](tasks-workflows.md#nederlandse-audio-theater-productie)
+  - [Audio Gaming Content Ontwikkeling](tasks-workflows.md#audio-gaming-content-ontwikkeling)
+- **Sjablonen:**
+  - [Voice Drama Script Sjabloon](templates.md#voice-drama-script-sjabloon)
+  - [Interactieve Audio Sjabloon](templates.md#interactieve-audio-sjabloon)
+- **Data:**
+  - [Nederlandse Audio Theater Tradities](knowledge-base.md#nederlandse-audio-theater-tradities)
+  - [Interactieve Audio Technologieën](knowledge-base.md#interactieve-audio-technologieen)
+  - [Nederlandse Voice Acting Gids](knowledge-base.md#nederlandse-voice-acting-gids)
+- **Checklists:**
+  - [Voice Drama Kwaliteit Checklist](checklists-quality.md#voice-drama-kwaliteit-checklist)
+  - [Interactieve Audio Checklist](checklists-quality.md#interactieve-audio-checklist)
+  - [Nederlandse Audio Theater Checklist](checklists-quality.md#nederlandse-audio-theater-checklist)
+- **Interactie Modi:**
+  - "Interactief"
+  - "YOLO"
+
 ## Advisory Council Configuration
 
 ### Nederlandse Advisory Council Overzicht
@@ -331,6 +539,14 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `agent-personas.md#marketing-specialist` → Lars Marketing Specialist Persona
 - `agent-personas.md#trend-onderzoeker` → Iris Trend Onderzoeker Persona
 - `agent-personas.md#nederlandse-taal-specialist` → Manus Taal Specialist Persona
+- `agent-personas.md#tekst-verbetering-specialist` → Vera Tekst Verbetering Specialist Persona
+- `agent-personas.md#video-script-afstemming-specialist` → Alex Video Script Afstemming Specialist Persona
+- `agent-personas.md#ai-video-productie-specialist` → Robin AI Video Productie Specialist Persona
+- `agent-personas.md#post-productie-supervisor` → Maya Post-Productie Supervisor Persona
+- `agent-personas.md#audio-script-specialist` → Finn Audio Script Specialist Persona
+- `agent-personas.md#sound-design-audio-productie-specialist` → Zara Sound Design & Audio Productie Specialist Persona
+- `agent-personas.md#audio-content-directeur` → Kai Audio Content Directeur Persona
+- `agent-personas.md#voice-drama-interactieve-audio-specialist` → Nova Voice Drama & Interactieve Audio Specialist Persona
 
 ### Task Resource Mapping
 - `tasks-workflows.md#maak-reclame-script` → Nederlandse Reclame Script Creatie Taak
@@ -347,6 +563,38 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `tasks-workflows.md#stijl-aanpassing` → Nederlandse Stijl Aanpassing Taak
 - `tasks-workflows.md#linguistische-kwaliteitscontrole` → Nederlandse Linguïstische Kwaliteitscontrole Taak
 - `tasks-workflows.md#dialect-integratie` → Nederlandse Dialect Integratie Taak
+- `tasks-workflows.md#tekst-humanisatie` → Nederlandse Tekst Humanisatie Taak
+- `tasks-workflows.md#spraak-optimalisatie` → Nederlandse Spraak Optimalisatie Taak
+- `tasks-workflows.md#elevenlabs-tts-voorbereiding` → Nederlandse ElevenLabs TTS Voorbereiding Taak
+- `tasks-workflows.md#natuurlijke-pauze-integratie` → Nederlandse Natuurlijke Pauze Integratie Taak
+- `tasks-workflows.md#video-script-afstemming` → Nederlandse Video Script Afstemming Taak
+- `tasks-workflows.md#ai-video-prompt-optimalisatie` → Nederlandse AI Video Prompt Optimalisatie Taak
+- `tasks-workflows.md#visuele-storytelling-vertaling` → Nederlandse Visuele Storytelling Vertaling Taak
+- `tasks-workflows.md#scene-beschrijving-verfijning` → Nederlandse Scene Beschrijving Verfijning Taak
+- `tasks-workflows.md#ai-video-generatie` → Nederlandse AI Video Generatie Taak
+- `tasks-workflows.md#video-platform-optimalisatie` → Nederlandse Video Platform Optimalisatie Taak
+- `tasks-workflows.md#nederlandse-visuele-stijl-ontwikkeling` → Nederlandse Visuele Stijl Ontwikkeling Taak
+- `tasks-workflows.md#ai-video-kwaliteitscontrole` → Nederlandse AI Video Kwaliteitscontrole Taak
+- `tasks-workflows.md#post-productie-workflow-management` → Nederlandse Post-Productie Workflow Management Taak
+- `tasks-workflows.md#nederlandse-video-kwaliteitsborging` → Nederlandse Video Kwaliteitsborging Taak
+- `tasks-workflows.md#productie-team-coordinatie` → Nederlandse Productie Team Coördinatie Taak
+- `tasks-workflows.md#finale-video-optimalisatie` → Nederlandse Finale Video Optimalisatie Taak
+- `tasks-workflows.md#audio-script-ontwikkeling` → Nederlandse Audio Script Ontwikkeling Taak
+- `tasks-workflows.md#podcast-script-creatie` → Nederlandse Podcast Script Creatie Taak
+- `tasks-workflows.md#60-seconde-audio-content` → Nederlandse 60-Seconde Audio Content Taak
+- `tasks-workflows.md#audio-narratief-structurering` → Nederlandse Audio Narratief Structurering Taak
+- `tasks-workflows.md#sound-design-ontwikkeling` → Nederlandse Sound Design Ontwikkeling Taak
+- `tasks-workflows.md#audio-post-productie` → Nederlandse Audio Post-Productie Taak
+- `tasks-workflows.md#nederlandse-voice-over-productie` → Nederlandse Voice-over Productie Taak
+- `tasks-workflows.md#audio-platform-optimalisatie` → Nederlandse Audio Platform Optimalisatie Taak
+- `tasks-workflows.md#audio-content-strategie` → Nederlandse Audio Content Strategie Taak
+- `tasks-workflows.md#multi-platform-audio-planning` → Nederlandse Multi-Platform Audio Planning Taak
+- `tasks-workflows.md#nederlandse-audio-merk-ontwikkeling` → Nederlandse Audio Merk Ontwikkeling Taak
+- `tasks-workflows.md#audio-doelgroep-analyse` → Nederlandse Audio Doelgroep Analyse Taak
+- `tasks-workflows.md#voice-drama-script-ontwikkeling` → Nederlandse Voice Drama Script Ontwikkeling Taak
+- `tasks-workflows.md#interactieve-audio-ervaring-creatie` → Nederlandse Interactieve Audio Ervaring Creatie Taak
+- `tasks-workflows.md#nederlandse-audio-theater-productie` → Nederlandse Audio Theater Productie Taak
+- `tasks-workflows.md#audio-gaming-content-ontwikkeling` → Nederlandse Audio Gaming Content Ontwikkeling Taak
 
 ### Template Resource Mapping
 - `templates.md#reclame-script-sjabloon` → Nederlandse Reclame Script Sjabloon
@@ -354,8 +602,24 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `templates.md#merk-brief-sjabloon` → Nederlandse Merk Brief Sjabloon
 - `templates.md#nederlandse-taal-review-sjabloon` → Nederlandse Taal Review Sjabloon
 - `templates.md#stijl-aanpassing-sjabloon` → Nederlandse Stijl Aanpassing Sjabloon
+- `templates.md#tts-optimalisatie-sjabloon` → Nederlandse TTS Optimalisatie Sjabloon
+- `templates.md#spraak-verbetering-sjabloon` → Nederlandse Spraak Verbetering Sjabloon
+- `templates.md#video-script-afstemming-sjabloon` → Nederlandse Video Script Afstemming Sjabloon
+- `templates.md#ai-video-prompt-sjabloon` → Nederlandse AI Video Prompt Sjabloon
+- `templates.md#ai-video-productie-sjabloon` → Nederlandse AI Video Productie Sjabloon
+- `templates.md#video-platform-specificatie-sjabloon` → Nederlandse Video Platform Specificatie Sjabloon
+- `templates.md#post-productie-workflow-sjabloon` → Nederlandse Post-Productie Workflow Sjabloon
+- `templates.md#video-kwaliteitsborging-sjabloon` → Nederlandse Video Kwaliteitsborging Sjabloon
 - `templates.md#content-advies-sjabloon` → Nederlandse Content Advies Sjabloon
 - `templates.md#video-advies-sjabloon` → Nederlandse Video Advies Sjabloon
+- `templates.md#audio-script-sjabloon` → Nederlandse Audio Script Sjabloon
+- `templates.md#podcast-episode-sjabloon` → Nederlandse Podcast Episode Sjabloon
+- `templates.md#sound-design-sjabloon` → Nederlandse Sound Design Sjabloon
+- `templates.md#audio-productie-workflow-sjabloon` → Nederlandse Audio Productie Workflow Sjabloon
+- `templates.md#audio-content-strategie-sjabloon` → Nederlandse Audio Content Strategie Sjabloon
+- `templates.md#audio-merk-ontwikkeling-sjabloon` → Nederlandse Audio Merk Ontwikkeling Sjabloon
+- `templates.md#voice-drama-script-sjabloon` → Nederlandse Voice Drama Script Sjabloon
+- `templates.md#interactieve-audio-sjabloon` → Nederlandse Interactieve Audio Sjabloon
 
 ### Checklist Resource Mapping
 - `checklists-quality.md#script-kwaliteit-checklist-nl` → Nederlandse Script Kwaliteit Checklist
@@ -364,3 +628,27 @@ De Nederlandse Hype Jet Advisory Council bestaat uit 7 gespecialiseerde adviseur
 - `checklists-quality.md#nederlandse-taal-kwaliteit-checklist` → Nederlandse Taal Kwaliteit Checklist
 - `checklists-quality.md#doelgroep-stijl-checklist` → Nederlandse Doelgroep Stijl Checklist
 - `checklists-quality.md#linguistische-productie-checklist` → Nederlandse Linguïstische Productie Checklist
+- `checklists-quality.md#tts-kwaliteit-checklist` → Nederlandse TTS Kwaliteit Checklist
+- `checklists-quality.md#natuurlijke-spraak-checklist` → Nederlandse Natuurlijke Spraak Checklist
+- `checklists-quality.md#elevenlabs-optimalisatie-checklist` → Nederlandse ElevenLabs Optimalisatie Checklist
+- `checklists-quality.md#video-script-afstemming-checklist` → Nederlandse Video Script Afstemming Checklist
+- `checklists-quality.md#ai-video-kwaliteit-checklist` → Nederlandse AI Video Kwaliteit Checklist
+- `checklists-quality.md#visuele-consistentie-checklist` → Nederlandse Visuele Consistentie Checklist
+- `checklists-quality.md#ai-video-productie-checklist` → Nederlandse AI Video Productie Checklist
+- `checklists-quality.md#nederlandse-visuele-authenticiteit-checklist` → Nederlandse Visuele Authenticiteit Checklist
+- `checklists-quality.md#video-platform-compatibiliteit-checklist` → Nederlandse Video Platform Compatibiliteit Checklist
+- `checklists-quality.md#post-productie-kwaliteit-checklist` → Nederlandse Post-Productie Kwaliteit Checklist
+- `checklists-quality.md#nederlandse-video-standaarden-checklist` → Nederlandse Video Standaarden Checklist
+- `checklists-quality.md#finale-productie-gereedheid-checklist` → Nederlandse Finale Productie Gereedheid Checklist
+- `checklists-quality.md#audio-script-kwaliteit-checklist` → Nederlandse Audio Script Kwaliteit Checklist
+- `checklists-quality.md#podcast-content-checklist` → Nederlandse Podcast Content Checklist
+- `checklists-quality.md#nederlandse-audio-authenticiteit-checklist` → Nederlandse Audio Authenticiteit Checklist
+- `checklists-quality.md#sound-design-kwaliteit-checklist` → Nederlandse Sound Design Kwaliteit Checklist
+- `checklists-quality.md#audio-productie-checklist` → Nederlandse Audio Productie Checklist
+- `checklists-quality.md#nederlandse-audio-standaarden-checklist` → Nederlandse Audio Standaarden Checklist
+- `checklists-quality.md#audio-content-strategie-checklist` → Nederlandse Audio Content Strategie Checklist
+- `checklists-quality.md#nederlandse-audio-merk-checklist` → Nederlandse Audio Merk Checklist
+- `checklists-quality.md#multi-platform-audio-checklist` → Nederlandse Multi-Platform Audio Checklist
+- `checklists-quality.md#voice-drama-kwaliteit-checklist` → Nederlandse Voice Drama Kwaliteit Checklist
+- `checklists-quality.md#interactieve-audio-checklist` → Nederlandse Interactieve Audio Checklist
+- `checklists-quality.md#nederlandse-audio-theater-checklist` → Nederlandse Audio Theater Checklist
