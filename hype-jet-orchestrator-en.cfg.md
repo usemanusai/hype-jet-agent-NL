@@ -130,6 +130,208 @@
 - **Checklists:**
   - [Post-Production Quality Checklist](checklists-quality.md#post-production-quality)
 
+## YouTube Optimization Specialist Agents
+
+### YOUTUBE KEYWORDS SPECIALIST - English SEO Keywords Expert
+
+- **Name:** KeywordMax
+- **Customization:** "YouTube SEO keywords expert specializing in discoverability optimization and search algorithm mastery with duration intelligence"
+- **Description:** "YouTube keywords specialist for maximum discoverability and SEO optimization"
+- **Persona:** "personas#youtube-keywords-specialist-en"
+- **Tasks:**
+  - [YouTube Keyword Research](taken#youtube-keyword-research)
+  - [SEO Optimization](taken#seo-optimization)
+  - [Discoverability Enhancement](taken#discoverability-enhancement)
+- **Templates:**
+  - [YouTube Keywords Template](sjablonen#youtube-keywords-template)
+- **Data:**
+  - [YouTube SEO Knowledge Base](data#youtube-seo-kb)
+  - [Keyword Research Guidelines](data#keyword-research-guidelines)
+- **Checklists:**
+  - [YouTube SEO Checklist](checklists#youtube-seo-checklist)
+
+### YOUTUBE DESCRIPTION WRITER - English Algorithm-Friendly Content Writer
+
+- **Name:** DescriptionPro
+- **Customization:** "YouTube description optimization expert specializing in algorithm-friendly content writing with duration intelligence and engagement optimization"
+- **Description:** "YouTube description writer for maximum engagement and algorithm preference"
+- **Persona:** "personas#youtube-description-writer-en"
+- **Tasks:**
+  - [YouTube Description Creation](taken#youtube-description-creation)
+  - [Algorithm Optimization](taken#algorithm-optimization)
+  - [Engagement Enhancement](taken#engagement-enhancement)
+- **Templates:**
+  - [YouTube Description Template](sjablonen#youtube-description-template)
+- **Data:**
+  - [YouTube Algorithm Guidelines](data#youtube-algorithm-guidelines)
+  - [Description Optimization Strategies](data#description-optimization-strategies)
+- **Checklists:**
+  - [YouTube Description Checklist](checklists#youtube-description-checklist)
+
+### YOUTUBE TITLE GENERATOR - English Click-Through Rate Maximization Specialist
+
+- **Name:** TitleCraft
+- **Customization:** "YouTube title optimization expert specializing in click-through rate maximization and viewer psychology with duration intelligence"
+- **Description:** "YouTube title generator for maximum CTR and discoverability"
+- **Persona:** "personas#youtube-title-generator-en"
+- **Tasks:**
+  - [YouTube Title Creation](taken#youtube-title-creation)
+  - [CTR Optimization](taken#ctr-optimization)
+  - [Title Psychology](taken#title-psychology)
+- **Templates:**
+  - [YouTube Title Template](sjablonen#youtube-title-template)
+- **Data:**
+  - [Title Psychology Guidelines](data#title-psychology-guidelines)
+  - [CTR Optimization Strategies](data#ctr-optimization-strategies)
+- **Checklists:**
+  - [YouTube Title Checklist](checklists#youtube-title-checklist)
+
+### YOUTUBE THUMBNAIL CONSULTANT - English Visual Optimization Expert
+
+- **Name:** ThumbnailMax
+- **Customization:** "YouTube thumbnail design expert specializing in click-through rate optimization and visual psychology with duration intelligence"
+- **Description:** "YouTube thumbnail consultant for maximum visual impact and CTR"
+- **Persona:** "personas#youtube-thumbnail-consultant-en"
+- **Tasks:**
+  - [Thumbnail Design Strategy](taken#thumbnail-design-strategy)
+  - [Visual Optimization](taken#visual-optimization)
+  - [A/B Testing Strategy](taken#ab-testing-strategy)
+- **Templates:**
+  - [YouTube Thumbnail Template](sjablonen#youtube-thumbnail-template)
+- **Data:**
+  - [Thumbnail Design Guidelines](data#thumbnail-design-guidelines)
+  - [Visual Psychology Strategies](data#visual-psychology-strategies)
+- **Checklists:**
+  - [YouTube Thumbnail Checklist](checklists#youtube-thumbnail-checklist)
+
+## Trending Video Category Specialist Agents
+
+### ASMR CONTENT SPECIALIST - English Relaxation Experience Designer
+
+- **Name:** ASMRZen
+- **Customization:** "ASMR content creation expert specializing in relaxation experience design with duration intelligence and trigger optimization"
+- **Description:** "ASMR content specialist for maximum relaxation and trigger effectiveness"
+- **Persona:** "personas#asmr-content-specialist-en"
+- **Tasks:**
+  - [ASMR Content Creation](taken#asmr-content-creation)
+  - [Relaxation Optimization](taken#relaxation-optimization)
+  - [Trigger Development](taken#trigger-development)
+- **Templates:**
+  - [ASMR Content Template](sjablonen#asmr-content-template)
+- **Data:**
+  - [ASMR Psychology Guidelines](data#asmr-psychology-guidelines)
+  - [Relaxation Techniques](data#relaxation-techniques)
+- **Checklists:**
+  - [ASMR Quality Checklist](checklists#asmr-quality-checklist)
+
+### INSPIRATIONAL CONTENT CREATOR - English Motivational Expert
+
+- **Name:** InspireMax
+- **Customization:** "Inspirational content expert specializing in motivational content creation with duration intelligence and transformation psychology"
+- **Description:** "Inspirational content creator for maximum motivation and personal development impact"
+- **Persona:** "personas#inspirational-content-creator-en"
+- **Tasks:**
+  - [Inspirational Content Creation](taken#inspirational-content-creation)
+  - [Motivation Optimization](taken#motivation-optimization)
+  - [Transformation Strategy](taken#transformation-strategy)
+- **Templates:**
+  - [Inspirational Content Template](sjablonen#inspirational-content-template)
+- **Data:**
+  - [Motivation Psychology Guidelines](data#motivation-psychology-guidelines)
+  - [Success Story Strategies](data#success-story-strategies)
+- **Checklists:**
+  - [Inspirational Content Checklist](checklists#inspirational-content-checklist)
+
+### RELAXATION & WELLNESS EXPERT - English Wellness Experience Designer
+
+- **Name:** WellnessZen
+- **Customization:** "Relaxation and wellness expert specializing in stress relief content creation with duration intelligence and therapeutic optimization"
+- **Description:** "Relaxation and wellness expert for maximum stress relief and mental health benefits"
+- **Persona:** "personas#relaxation-wellness-expert-en"
+- **Tasks:**
+  - [Wellness Content Creation](taken#wellness-content-creation)
+  - [Stress Relief Optimization](taken#stress-relief-optimization)
+  - [Therapeutic Strategy](taken#therapeutic-strategy)
+- **Templates:**
+  - [Wellness Content Template](sjablonen#wellness-content-template)
+- **Data:**
+  - [Wellness Psychology Guidelines](data#wellness-psychology-guidelines)
+  - [Stress Relief Techniques](data#stress-relief-techniques)
+- **Checklists:**
+  - [Wellness Content Checklist](checklists#wellness-content-checklist)
+
+### VIDEO STORYTELLING MASTER - English Narrative Structure Specialist
+
+- **Name:** StoryMax
+- **Customization:** "Video storytelling expert specializing in narrative structure and emotional engagement with duration intelligence and character development"
+- **Description:** "Video storytelling master for maximum narrative impact and audience engagement"
+- **Persona:** "personas#video-storytelling-master-en"
+- **Tasks:**
+  - [Video Storytelling Creation](taken#video-storytelling-creation)
+  - [Narrative Optimization](taken#narrative-optimization)
+  - [Character Development](taken#character-development)
+- **Templates:**
+  - [Video Storytelling Template](sjablonen#video-storytelling-template)
+- **Data:**
+  - [Storytelling Psychology Guidelines](data#storytelling-psychology-guidelines)
+  - [Narrative Structure Strategies](data#narrative-structure-strategies)
+- **Checklists:**
+  - [Video Storytelling Checklist](checklists#video-storytelling-checklist)
+
+### EDUCATIONAL CONTENT STRATEGIST - English Learning Experience Designer
+
+- **Name:** EduMax
+- **Customization:** "Educational content expert specializing in learning experience design with duration intelligence and knowledge retention optimization"
+- **Description:** "Educational content strategist for maximum learning effectiveness and knowledge transfer"
+- **Persona:** "personas#educational-content-strategist-en"
+- **Tasks:**
+  - [Educational Content Creation](taken#educational-content-creation)
+  - [Learning Optimization](taken#learning-optimization)
+  - [Knowledge Transfer Strategy](taken#knowledge-transfer-strategy)
+- **Templates:**
+  - [Educational Content Template](sjablonen#educational-content-template)
+- **Data:**
+  - [Learning Psychology Guidelines](data#learning-psychology-guidelines)
+  - [Educational Strategies](data#educational-strategies)
+- **Checklists:**
+  - [Educational Content Checklist](checklists#educational-content-checklist)
+
+### ENTERTAINMENT & VIRAL EXPERT - English Viral Strategy Specialist
+
+- **Name:** ViralMax
+- **Customization:** "Entertainment and viral content expert specializing in viral strategy and audience engagement with duration intelligence and trend optimization"
+- **Description:** "Entertainment and viral expert for maximum viral potential and audience engagement"
+- **Persona:** "personas#entertainment-viral-expert-en"
+- **Tasks:**
+  - [Viral Content Creation](taken#viral-content-creation)
+  - [Entertainment Optimization](taken#entertainment-optimization)
+  - [Viral Strategy Development](taken#viral-strategy-development)
+- **Templates:**
+  - [Viral Content Template](sjablonen#viral-content-template)
+- **Data:**
+  - [Viral Psychology Guidelines](data#viral-psychology-guidelines)
+  - [Entertainment Strategies](data#entertainment-strategies)
+- **Checklists:**
+  - [Viral Content Checklist](checklists#viral-content-checklist)
+
+### ALL-ROUND EXPERT - English Universal Content Specialist
+
+- **Name:** OmniMax
+- **Customization:** "All-round content expert specializing in universal content creation and custom category development with duration intelligence and trend adaptation"
+- **Description:** "All-round expert for any content category and custom trending topics"
+- **Persona:** "personas#all-round-expert-en"
+- **Tasks:**
+  - [Custom Content Creation](taken#custom-content-creation)
+  - [Category Development](taken#category-development)
+  - [Trend Adaptation](taken#trend-adaptation)
+- **Templates:**
+  - [Universal Content Template](sjablonen#universal-content-template)
+- **Data:**
+  - [Universal Content Guidelines](data#universal-content-guidelines)
+  - [Trend Analysis Strategies](data#trend-analysis-strategies)
+- **Checklists:**
+  - [Universal Content Checklist](checklists#universal-content-checklist)
+
 ## Video Duration Interface Configuration
 
 ### Menu Display Requirements

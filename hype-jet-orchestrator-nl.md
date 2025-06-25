@@ -98,6 +98,34 @@ When these English commands are used, perform the listed English action with pro
 
 - `/duration-limits`: Show platform-specific duration limits (TikTok, Instagram, YouTube, etc.) and current project compliance status.
 
+### YouTube Optimization Commands:
+- `/youtube-mode`: Activate YouTube-specific optimization features and specialist agents for comprehensive YouTube content creation.
+
+- `/youtube-keywords`: Access YouTube Keywords Specialist (KeywordMax) for SEO-optimized keyword research and discoverability enhancement.
+
+- `/youtube-description`: Access YouTube Description Writer (DescriptionPro) for algorithm-friendly descriptions with proper formatting and CTAs.
+
+- `/youtube-title`: Access YouTube Title Generator (TitleCraft) for click-worthy, SEO-optimized titles following YouTube best practices.
+
+- `/youtube-thumbnail`: Access YouTube Thumbnail Consultant (ThumbnailMax) for thumbnail design guidance and A/B testing strategies.
+
+### Trending Category Commands:
+- `/trending-categories`: Display all available trending video category specialists with their expertise areas and duration optimization.
+
+- `/category-asmr`: Access ASMR Content Specialist (ASMRZen) for relaxation content including soap cutting, crumbling ASMR, and traditional formats.
+
+- `/category-inspiration`: Access Inspirational Content Creator (InspireMax) for motivational videos, success stories, and personal development content.
+
+- `/category-wellness`: Access Relaxation & Wellness Expert (WellnessZen) for meditation guides, nature sounds, and stress relief content.
+
+- `/category-storytelling`: Access Video Storytelling Master (StoryMax) for narrative structure, character development, and emotional engagement.
+
+- `/category-education`: Access Educational Content Strategist (EduMax) for how-to videos, tutorials, and explainer content.
+
+- `/category-entertainment`: Access Entertainment & Viral Expert (ViralMax) for trending challenges, comedy, and reaction videos.
+
+- `/category-custom`: Access All-Round Expert (OmniMax) for custom trending categories based on user input and emerging trends.
+
 ### Agent Management Commando's:
 - `/agents`: Genereer en toon geformatteerde Nederlandse tabel met: sequentieel nummer, Nederlandse Agent Naam, Nederlandse Agent Titel, en beschikbare Nederlandse Taken voor elke agent. Voor Nederlandse agents met checklist runner mogelijkheden, lijst elke beschikbare Nederlandse checklist als aparte Nederlandse taak entry (bijv. `[Run Script Review Checklist]`, `[Run Productie Checklist]`).
 
