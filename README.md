@@ -1,68 +1,70 @@
-# 🇳🇱 Dutch Hype-Jet Agent System
+# 🌍 English Hype-Jet Agent System
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/usemanusai/hype-jet-agent-NL)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Dutch Content](https://img.shields.io/badge/language-Dutch-orange.svg)](README.md)
+[![English Content](https://img.shields.io/badge/language-English-blue.svg)](README.md)
 [![AI Agents](https://img.shields.io/badge/agents-20-purple.svg)](consolidated/configuration.md)
 
-> **Intelligente Nederlandse Content Productie Ecosystem met Multi-Agent Orchestratie**
+> **Intelligent Content Production Ecosystem with Multi-Agent Orchestration**
 
-Een geavanceerd AI-agent systeem voor Nederlandse content creatie dat 20 gespecialiseerde agents combineert in een intelligent gecoördineerd productie-ecosysteem. Van podcast scripts tot AI video's, van marketing campagnes tot voice drama's - alles geoptimaliseerd voor de Nederlandse markt met authentieke culturele context.
+An advanced AI-agent system for content creation that combines 20 specialized agents in an intelligently coordinated production ecosystem. From podcast scripts to AI videos, from marketing campaigns to voice dramas - everything optimized with authentic cultural context and enhanced video duration controls.
 
 ## 🎯 Project Overview
 
-Het Dutch Hype-Jet Agent System is een revolutionair content productie platform dat:
+The English Hype-Jet Agent System is a revolutionary content production platform that:
 
-- **20 Gespecialiseerde AI Agents** combineert voor complete Nederlandse content workflows
-- **Intelligente Project Orchestratie** biedt via Quinn (PM Agent) voor automatische workflow generatie
-- **Dynamische Kwaliteitsborging** implementeert die 200+ checklist items reduceert tot 15-30 relevante checks
-- **Nederlandse Culturele Authenticiteit** waarborgt in alle content types
-- **Multi-Modal Content Productie** ondersteunt (tekst, audio, video, marketing)
-- **Platform Optimalisatie** levert voor Spotify, YouTube, Nederlandse radio, sociale media
+- **20 Specialized AI Agents** combined for complete content workflows
+- **Intelligent Project Orchestration** via Quinn (PM Agent) for automatic workflow generation
+- **Dynamic Quality Assurance** implementing 200+ checklist items reduced to 15-30 relevant checks
+- **Cultural Authenticity** ensuring quality in all content types
+- **Multi-Modal Content Production** supporting (text, audio, video, marketing)
+- **Platform Optimization** for Spotify, YouTube, radio, social media
+- **Enhanced Video Duration Controls** with customizable timing up to 10 hours
 
 ### 🚀 Recent Major Updates
 
-- ✅ **Quinn PM Agent** - Intelligente multi-agent workflow orchestrator
-- ✅ **Audio Production Pipeline** - Complete podcast en audio content workflow
-- ✅ **AI Video Generation** - Veo 3 en Kling AI integratie
-- ✅ **Smart Quality Management** - 60-70% reductie in quality check overhead
-- ✅ **Auto-Pilot Mode** - Volledig geautomatiseerd project management
+- ✅ **Quinn PM Agent** - Intelligent multi-agent workflow orchestrator
+- ✅ **Audio Production Pipeline** - Complete podcast and audio content workflow
+- ✅ **AI Video Generation** - Veo 3 and Kling AI integration
+- ✅ **Smart Quality Management** - 60-70% reduction in quality check overhead
+- ✅ **Auto-Pilot Mode** - Fully automated project management
+- ✅ **Video Duration Features** - Total duration display and 10-hour customization
 
 ## 🤖 Agent Ecosystem
 
 ### 🎯 Core Orchestration
-- **Quinn** - Project Manager & Workflow Orchestrator *(Intelligente multi-agent coördinatie)*
+- **Quinn** - Project Manager & Workflow Orchestrator *(Intelligent multi-agent coordination)*
 
 ### ✍️ Content Creation Specialists
-- **Marcus** - Script Schrijver *(Nederlandse verhaal ontwikkeling)*
-- **Finn** - Audio Script Specialist *(Podcast scripts, 60-sec audio)*
-- **Alex** - Video Script Afstemming *(Video storytelling optimalisatie)*
-- **Emma** - Virale Content Maker *(Social media viral content)*
+- **Marcus** - Script Writer *(Story development and narrative creation)*
+- **Finn** - Audio Script Specialist *(Podcast scripts, 60-sec audio with duration controls)*
+- **Alex** - Video Script Optimization *(Video storytelling optimization with timing)*
+- **Emma** - Viral Content Creator *(Social media viral content)*
 
 ### 🎬 Video Production Pipeline
-- **Robin** - AI Video Productie *(Veo 3, Kling AI expertise)*
-- **Maya** - Post-Productie Supervisor *(Video editing, workflow management)*
+- **Robin** - AI Video Production *(Veo 3, Kling AI expertise with duration management)*
+- **Maya** - Post-Production Supervisor *(Video editing, workflow management, duration optimization)*
 
 ### 🎙️ Audio Production Pipeline
-- **Zara** - Sound Design & Audio Productie *(ElevenLabs, audio mastering)*
-- **Kai** - Audio Content Directeur *(Audio strategy, platform optimization)*
-- **Nova** - Voice Drama & Interactieve Audio *(Audio theater, interactive experiences)*
+- **Zara** - Sound Design & Audio Production *(ElevenLabs, audio mastering)*
+- **Kai** - Audio Content Director *(Audio strategy, platform optimization)*
+- **Nova** - Voice Drama & Interactive Audio *(Audio theater, interactive experiences)*
 
 ### 🎨 Creative Direction & Strategy
-- **Sophia** - Creatief Directeur *(Overall creative vision)*
-- **David** - Merk Strateeg *(Brand development, positioning)*
+- **Sophia** - Creative Director *(Overall creative vision)*
+- **David** - Brand Strategist *(Brand development, positioning)*
 - **Lars** - Marketing Specialist *(Campaign strategy, promotion)*
 
 ### 🔧 Enhancement & Optimization
-- **Vera** - Tekst Verbetering *(TTS optimization, content enhancement)*
-- **Iris** - Trend Onderzoeker *(Market analysis, trend identification)*
-- **Manus** - Nederlandse Taal & Stijl *(Language quality, cultural authenticity)*
+- **Vera** - Text Enhancement *(TTS optimization, content enhancement)*
+- **Iris** - Trend Researcher *(Market analysis, trend identification)*
+- **Manus** - Language & Style *(Language quality, cultural authenticity)*
 
 ### 🎭 Specialized Services
 - **Liam** - Humor & Entertainment *(Comedy writing, entertainment content)*
-- **Zoe** - Educatieve Content *(Educational material, learning content)*
-- **Noa** - Sociale Media *(Platform-specific optimization)*
-- **Sam** - Technische Documentatie *(Technical writing, documentation)*
+- **Zoe** - Educational Content *(Educational material, learning content)*
+- **Noa** - Social Media *(Platform-specific optimization)*
+- **Sam** - Technical Documentation *(Technical writing, documentation)*
 
 ## 🚀 Getting Started
 
